@@ -7,10 +7,6 @@ This project is a Go Programming with concurrency pattern for practical means. I
 ## Table of Contents
 - [Getting Started](#getting-started)
 - [Installation](#installation)
-- [Usage](#usage)
-- [Features](#features)
-- [Contributing](#contributing)
-- [License](#license)
 - [Tips](#tips)
 
 ---
