@@ -21,7 +21,7 @@ This project is a Go Programming with concurrency pattern for practical means. I
 Ensure you have the following installed:
 go version go1.21.6 windows/386
 - [Go](https://go.dev/dl/) (version go1.21.6 or later)
-- Any additional tools, libraries, or software (e.g., IDE, Terminal, chrom).
+- Any additional tools, libraries, or software (e.g., IDE, Terminal, Chrom).
 
 ### Installation
 
