@@ -1,4 +1,4 @@
-# Goroutine-channels
+# Goroutine And channels
 
 ## Description
 This project is a Go Programming with concurrency pattern for practical means. It helps developers to master concurrency concept and pattern that enhance features in Saas and systems.
