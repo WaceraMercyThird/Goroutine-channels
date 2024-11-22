@@ -3,8 +3,9 @@
 ## Description
 This project is a Go Programming with concurrency pattern for practical means. It helps developers to master concurrency concept and pattern that enhance features in Saas and systems.
 
-
+---
 ## Table of Contents
+- [Getting Started](#getting-started)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Features](#features)
@@ -12,29 +13,9 @@ This project is a Go Programming with concurrency pattern for practical means. I
 - [License](#license)
 - [Tips](#tips)
 
-
-
-
-
-# Project Name
-
-A brief and clear description of your project. Mention what the project does and its main features.
-
-## Features
-- Feature 1
-- Feature 2
-- Feature 3
-
 ---
 
-## Table of Contents
-1. [Getting Started](#getting-started)
-2. [Installation](#installation)
-7. [Tips](#tips)
-
----
-
-## Getting Started
+# Getting Started
 
 ### Prerequisites
 Ensure you have the following installed:
