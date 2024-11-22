@@ -1,18 +1,17 @@
 package main
 
-import (
-	"fmt"
-	"go_master/service"
-	"time"
-)
+import "go_master/handler"
 
 func main() {
-	service.SomeFunc("1")
-	service.SomeFunc("2")
-	go service.SomeFunc("3")
-	go service.SomeFunc("4")
+	handler.SomeFuncSync()
+	handler.Greetings()
+	handler.Message()
+	handler.SelectedMessage()
+	handler.ForSelectedMessage()
+	handler.DoneChannel()
+	//handler.PipelineChannel()
 
-	time.Sleep(time.Duration(7000))
-
-	fmt.Println("Hello World")
+	//goroutine concept and patterns / Synchronous Channels
+	handler.Generator()
+	handler.Pipeline()
 }
